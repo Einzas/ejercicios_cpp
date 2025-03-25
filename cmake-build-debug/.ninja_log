@@ -1,0 +1,6 @@
+# ninja log v6
+4	884	7645719243945051	CMakeFiles/untitled.dir/main.cpp.obj	45217995415cbe03
+3	635	7645751142563925	build.ninja	add097eb24b449e9
+879	1716	7645712469825554	untitled.exe	119c5e3a06ba4a01
+5	959	7645722808839802	CMakeFiles/untitled.dir/suma_numeros.cpp.obj	a2f27f59d2ae1e47
+83	988	7645722809624606	CMakeFiles/untitled.dir/calculadora_simple.cpp.obj	2dc6125068822ac2
